@@ -1,0 +1,5 @@
+C:/codes/c/learnc/cmake-build-debug/CMakeFiles/learnc.dir
+C:/codes/c/learnc/cmake-build-debug/CMakeFiles/main.dir
+C:/codes/c/learnc/cmake-build-debug/CMakeFiles/learns.dir
+C:/codes/c/learnc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/codes/c/learnc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
